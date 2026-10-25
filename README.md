@@ -9,7 +9,8 @@ The workbook includes data-quality checks, calculated sales metrics, PivotTables
 ## Project Files
 
 - [Download the Excel Workbook](https://drive.google.com/uc?export=download&id=1YHDB3kgVDnI7H0VJNv74_7SJdsRvPIme)
-- Dashboard preview: see the screenshot in this repository.
+- [Download Dashboard Preview](retail-sales-dashboard.png).
+- ![Retail Sales Performance Dashboard](retail-sales-dashboard.png).
 
 ## Business Questions
 
