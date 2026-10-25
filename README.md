@@ -6,6 +6,11 @@ This project analyzes historical online retail transactions using Microsoft Exce
 
 The workbook includes data-quality checks, calculated sales metrics, PivotTables, a dashboard, and evidence-based business insights.
 
+## Project Files
+
+- [Download the Excel Workbook](https://docs.google.com/spreadsheets/d/1YHDB3kgVDnI7H0VJNv74_7SJdsRvPIme/edit?usp=sharing&ouid=105557291719949047146&rtpof=true&sd=true)
+- Dashboard preview: see the screenshot in this repository.
+
 ## Business Questions
 
 - How did eligible sales vary by month?
