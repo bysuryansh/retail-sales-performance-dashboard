@@ -8,7 +8,7 @@ The workbook includes data-quality checks, calculated sales metrics, PivotTables
 
 ## Project Files
 
-- [Download the Excel Workbook](https://docs.google.com/spreadsheets/d/1YHDB3kgVDnI7H0VJNv74_7SJdsRvPIme/edit?usp=sharing&ouid=105557291719949047146&rtpof=true&sd=true)
+- [Download the Excel Workbook](https://drive.google.com/uc?export=download&id=1YHDB3kgVDnI7H0VJNv74_7SJdsRvPIme)
 - Dashboard preview: see the screenshot in this repository.
 
 ## Business Questions
